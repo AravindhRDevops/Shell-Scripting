@@ -4,5 +4,5 @@ Date="$date"
 echo -e "Todats date is $Date"
 
 
-DATE="$date"
+DATE="$(date)"
 echo -e "Todays date is $DATE"
