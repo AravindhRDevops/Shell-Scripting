@@ -1,3 +1,4 @@
 #1/bin/bash
 
-Date="$date"
+Date="$(date)"
+echo -e "Todats date is $(Date)'
