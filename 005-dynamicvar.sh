@@ -10,8 +10,8 @@ echo -e "Todays date is $DATE"
 DATE="$date"
 echo -e "Todays date is $DATE"
 
-int="$(ping 0.0.0.0)"
-echo -e "ping is $int"
+#int="$(ping 0.0.0.0)"
+#echo -e "ping is $int"
 
 up="$(uptime)"
 echo -e "Todays date is $up"
