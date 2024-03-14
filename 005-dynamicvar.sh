@@ -14,4 +14,4 @@ echo -e "Todays date is $DATE"
 #echo -e "ping is $int"
 
 up="$(uptime)"
-echo -e "Todays date is $up"
+echo -e "uptime of system is $up"
