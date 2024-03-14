@@ -4,6 +4,6 @@ a=10
 b=number
 
 
-echo a
+echo $b
 echo $a
 echo "The value of variable b is $b"
