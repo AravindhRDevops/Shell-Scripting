@@ -10,3 +10,10 @@ echo -e "name of the scipt is $**"
 echo -e "name of the scipt is $#"
 echo -e "name of the scipt is $@"
 echo -e "name of the scipt is $9"
+
+
+Team=$1
+Member=$2
+
+echo -e "Name od the team : $1"
+echo -e "Name of the memeber : $2"
