@@ -1,3 +1,3 @@
 #1/bin/bash
 
-Date=$"date"
+Date="$date"
