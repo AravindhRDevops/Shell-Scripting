@@ -17,3 +17,6 @@ Member=$2
 
 echo -e "Name od the team : $1"
 echo -e "Name of the memeber : $2"
+
+Team=$22
+echo -e "New member login : $22"
