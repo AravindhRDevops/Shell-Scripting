@@ -6,7 +6,8 @@ f
 f
 
 f()
-{today is Monday
+{
+today is Monday
 tomorrow is thuesday
 
 }
