@@ -1,19 +1,12 @@
 #!/bin/bash
 
-echo "hello world"
-f
-
-f
 
 f()
 {
-    today is Monday
-tomorrow is thuesday
-
+echo "hello World"
 }
 
 f 
 echo "what we are learining today will long last"
 echo "i am trying my level best"
-
 f
