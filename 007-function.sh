@@ -1,11 +1,11 @@
 #!/bin/bash
 
 
-f()
+function()
 {
 echo "hello World"
 }
 
-f 
-f
-f
+function 
+function
+function
