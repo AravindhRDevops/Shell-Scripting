@@ -19,3 +19,4 @@ echo "i am trying my level best"
 f
 
 echo "Number of opened session $(who|wc -l)"
+echo "today date is $(date)"
