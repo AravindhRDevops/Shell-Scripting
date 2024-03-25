@@ -1,11 +1,11 @@
 #!/bin/bash
 
 
-function()
+first_word()
 {
 echo "hello World"
 }
 
-function 
-function
-function
+first_word
+first_word
+first_word
